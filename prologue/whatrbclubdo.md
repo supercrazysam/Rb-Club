@@ -4,9 +4,9 @@
 ## ABU Robcon 2015 HK \(Best Artistic Design Award, Best Engineering Award\)
 
 <p float="middle">
-  <img src="https://i.imgur.com/OMxXIlh.jpg" width="32%" />
-  <img src="https://i.imgur.com/pNPGbsp.jpg" width="32%" /> 
-  <img src="https://i.imgur.com/a5KUh5u.jpg" width="32%" />
+  <img src="https://i.imgur.com/OMxXIlh.jpg" width="33%" />
+  <img src="https://i.imgur.com/pNPGbsp.jpg" width="33%" /> 
+  <img src="https://i.imgur.com/a5KUh5u.jpg" width="33%" />
 </p>
 
 ## 2016-17
@@ -32,8 +32,8 @@ Robocon 2017 HK contest \(1st Runner Up\)
 HKU & CityU visit PolyU After Contest
 
 <p float="middle">
-  <img src="https://i.imgur.com/lLeX6cU.jpg" width="48%" />
-  <img src="https://i.imgur.com/buhWulr.jpg" width="48%" /> 
+  <img src="https://i.imgur.com/lLeX6cU.jpg" width="50%" />
+  <img src="https://i.imgur.com/buhWulr.jpg" width="50%" /> 
 </p>
 
 ### Workshops
@@ -62,9 +62,10 @@ Junior Training \(Tutored by Seniors\)
 
 Robocon 2018 HK contest \(Best Artistic Design Award, Best Engineering Award\)
 
-![](https://i.imgur.com/ahwI27a.jpg)
-
-![](https://i.imgur.com/FKPXH7v.jpg)
+<p float="middle">
+  <img src="https://i.imgur.com/ahwI27a.jpg" width="50%" />
+  <img src="https://i.imgur.com/FKPXH7v.jpg" width="50%" /> 
+</p>
 
 ### Diplomatic
 
