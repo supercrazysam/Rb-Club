@@ -1,5 +1,13 @@
 # The history of PolyU FENG Robotics Club
 
+4 First Runner-up
+
+2 Second Runner-up
+
+7 Best Artistic Design Award
+
+6 Best Engineering Award
+
 ## 2006 
 
 ABU Robocon 2006 HK \(First Runner-up, Second Runner-up\)
@@ -36,9 +44,9 @@ ABU Robocon 2015 HK \(Best Artistic Design Award, Best Engineering Award\)
   <img src="https://i.imgur.com/a5KUh5u.jpg" width="49%" />
 </p>
 
-## 2016-17
+## 2017
 
-ABU Robocon 2017 HK \(1st Runner Up\)
+ABU Robocon 2017 HK \(First Runner-up\)
 
 ![](https://i.imgur.com/FFAOmsQ.jpg)
 
@@ -65,7 +73,7 @@ Karrie International Holdings Ltd. \([http://www.karrie.com/](http://www.karrie.
 
 ![](https://i.imgur.com/2sJ08eB.jpg)
 
-## 2017-18
+## 2018
 
 ABU Robocon 2018 HK \(Best Artistic Design Award, Best Engineering Award\)
 
@@ -102,9 +110,9 @@ NVidia - TX2 Training workshop in Hong Kong science park
 
 ![](https://i.imgur.com/MUR906S.jpg)
 
-## 2018-19
+## 2019
 
-ABU Robocon 2019 HK \(BEST ENGINEERING AWARD\)
+ABU Robocon 2019 HK \(Best Engineering Award\)
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
@@ -159,7 +167,7 @@ PolyU visit HKU After Contest
 
 ![](https://i.imgur.com/RfOBkHt.jpg)
 
-## 2019-20
+## 2020
 
 ### Promotions
 
