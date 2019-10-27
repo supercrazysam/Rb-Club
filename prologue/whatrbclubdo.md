@@ -94,7 +94,7 @@ Juniors Training \(Tutored by seniors\)
 
 ![](https://i.imgur.com/H7u3JZS.jpg)
 
-Robocon 2019 HK contest
+Robocon 2019 HK contest \(BEST ENGINEERING AWARD\)
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
