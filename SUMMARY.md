@@ -1,7 +1,5 @@
 # Table of contents
 
-* [.](README.md)
-
 ## Prologue
 
 * [Introduction](prologue/intro.md)
