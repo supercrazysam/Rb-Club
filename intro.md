@@ -48,16 +48,17 @@ Finding tools and materials
 
 # Rules
 
-> Rules:
-> 1. Be Polite.
-> 2. Juniors are not allowed to enter CF505A since it is reserved for Core Members.
-> 3. CF505 is opened for Juniors in any of those timeslot:
+Rules:
+> * Be Polite.
+> * Juniors are not allowed to enter CF505A since it is reserved for Core Members.
+> * CF505 is opened for Juniors in available timeslot:
+> * Juniors need to ask for tasks from the senior (please note the diagram)
+> * Please keep CF505 Tidy after use.
+
+Available Timeslot:
 >       * Mon: ❌(reserved for Core Members)
 >       * Tues: 4pm - 10pm 
 >       * Wed: 1:30pm - 10pm
 >       * Thurs: 1pm - 10pm
 >       * Fri: 1pm-3pm, 7pm - 10pm
 >       * Sat: 3pm - 10pm
-> 4. Juniors need to ask for tasks from the senior (please note the diagram)
-> 5. Please keep CF505 Tidy after use.
-
