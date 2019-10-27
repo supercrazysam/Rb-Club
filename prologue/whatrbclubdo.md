@@ -1,5 +1,9 @@
 # What did Robotics Club do?
 
+## 2015
+Robocon 2015 HK Contest \(Best Artistic Design Award, Best Engineering Award\)
+
+
 ## 2016-17
 
 ### Promotions
