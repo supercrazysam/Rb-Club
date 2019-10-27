@@ -1,6 +1,6 @@
 # Table of contents
 
-* [.](README.md)
+* [Birds of a feather flock together.](README.md)
 
 ## Prologue
 
