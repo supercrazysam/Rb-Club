@@ -3,13 +3,13 @@
 ___
 ### **Over the course of 10 years in ABU Robocon HK**
 
-  **4 First Runner-up**
+__**4 First Runner-up**
 
-  **2 Second Runner-up**
+__**2 Second Runner-up**
 
-  **7 Best Artistic Design Award**
+__**7 Best Artistic Design Award**
   
-  **6 Best Engineering Award**
+__**6 Best Engineering Award**
 
 ___
 
