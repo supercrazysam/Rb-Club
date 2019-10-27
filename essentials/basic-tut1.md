@@ -39,13 +39,17 @@ Flathead screwdriver
 
 Buzzer Alarm
 
-[How to Use it?](https://www.youtube.com/embed/A0EjDtGSepw?start=13)
+{% embed url="https://youtu.be/A0EjDtGSepw" %}
+
+
 
 Battery Charger
 
 ![](https://a.pololu-files.com/picture/0J6156.600x480.jpg?2ca504dd53e8abba56553ecc4c6ca4bc)
 
-[How to Use it?](https://www.youtube.com/embed/6jF6OevLu38?start=123)
+{% embed url="https://youtu.be/6jF6OevLu38" %}
+
+
 
 * Use balance mode
 * Charge it to 24 - 25V
@@ -65,5 +69,5 @@ Polarity
 | Red | Positive |
 | Black | Negative |
 
-[For more information for other connectors](https://learn.sparkfun.com/tutorials/connector-basics/all)
+[For more information for other connectors](https://learn.sparkfun.com/tutorials/connector-basics/all) \(MUST CHECK IT OUT\)
 
