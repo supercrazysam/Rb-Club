@@ -7,6 +7,8 @@ PolyU Info Day Demo
 Robocon 2017 HK contest (1st Runner Up)
 ![](https://i.imgur.com/FFAOmsQ.jpg)
 
+* Red Shadow
+https://youtu.be/vhDIzXrSyX4
 
 ## Diplomatic 
 HKU & CityU visit PolyU After Contest
@@ -71,6 +73,12 @@ Juniors Training (Tutored by seniors)
 Robocon 2019 HK contest
 ![](https://i.imgur.com/7D96TCx.jpg)
 ![](https://i.imgur.com/qdtBsMh.jpg)
+
+* Crimson
+https://youtu.be/NK8FHUy4pcw
+
+* Mysterious
+https://youtu.be/5mI_kRjqNiM
 
 ## Diplomatic 
 Added Final Year Project students from Mechanical Engineering
