@@ -2,11 +2,15 @@
 
 ## Who are we?
 
-We are Polyu Robotics Club.
+![](../.gitbook/assets/image%20%281%29.png)
+
+We are PolyU FENG Robotics Club. Hosted by Department of Electronic and Information Engineering.
+
+![](../.gitbook/assets/image.png)
 
 Our Main Focus is ABU Pacific Robocon, an Intra-university robot competition. Winner of the HK division will represent HK to compete with other top-notch universities from different Asian countries.
 
-**Robotics club members are for competition, not for leisure learning.**
+**Robotics club juniors are for competition, not for leisure learning.**
 
 If you have any problem, please contact our instructor Sam.
 

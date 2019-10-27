@@ -96,7 +96,7 @@ Juniors Training \(Tutored by seniors\)
 
 Robocon 2019 HK contest
 
-![](https://i.imgur.com/7D96TCx.jpg)
+![](../.gitbook/assets/image%20%282%29.png)
 
 ![](https://i.imgur.com/qdtBsMh.jpg)
 
