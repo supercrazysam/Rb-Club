@@ -1,12 +1,9 @@
 # The history of PolyU FENG Robotics Club
 
-4 First Runner-up
-
-2 Second Runner-up
-
-7 Best Artistic Design Award
-
-6 Best Engineering Award
+**4 First Runner-up**
+**2 Second Runner-up**
+**7 Best Artistic Design Award**
+**6 Best Engineering Award**
 
 ## 2006 
 
