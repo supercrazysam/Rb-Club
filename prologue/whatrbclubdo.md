@@ -32,8 +32,8 @@ Robocon 2017 HK contest \(1st Runner Up\)
 HKU & CityU visit PolyU After Contest
 
 <p float="middle">
-  <img src="https://i.imgur.com/lLeX6cU.jpg" width="50%" />
-  <img src="https://i.imgur.com/buhWulr.jpg" width="50%" /> 
+  <img src="https://i.imgur.com/lLeX6cU.jpg" width="49%" />
+  <img src="https://i.imgur.com/buhWulr.jpg" width="49%" /> 
 </p>
 
 ### Workshops
@@ -63,8 +63,8 @@ Junior Training \(Tutored by Seniors\)
 Robocon 2018 HK contest \(Best Artistic Design Award, Best Engineering Award\)
 
 <p float="middle">
-  <img src="https://i.imgur.com/ahwI27a.jpg" width="50%" />
-  <img src="https://i.imgur.com/FKPXH7v.jpg" width="50%" /> 
+  <img src="https://i.imgur.com/ahwI27a.jpg" width="49%" />
+  <img src="https://i.imgur.com/FKPXH7v.jpg" width="49%" /> 
 </p>
 
 ### Diplomatic
@@ -86,8 +86,6 @@ NVidia - TX2 Training workshop in Hong Kong science park
 PolyU Info Day Demo
 
 Promotion to Secondary School Students
-
-![](https://i.imgur.com/UlARNCZ.jpg)
 
 ![](https://i.imgur.com/eM0wqgS.jpg)
 
