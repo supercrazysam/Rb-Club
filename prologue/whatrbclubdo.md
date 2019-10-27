@@ -138,9 +138,10 @@ NVidia - TX2 Training workshop in Hong Kong science park
 
 ABU Robocon 2019 HK \(Best Engineering Award\)
 
-![](../.gitbook/assets/image%20%282%29.png)
-
-![](https://i.imgur.com/qdtBsMh.jpg)
+<p align="middle">
+  <img src="../.gitbook/assets/image%20%282%29.png" width="49%" /> 
+  <img src="https://i.imgur.com/qdtBsMh.jpg" width="49%" />
+</p>
 
 * Crimson 
 
@@ -188,10 +189,9 @@ HKU visit PolyU After Contest
 
 PolyU visit HKU After Contest
 
-<p align="middle">
-  <img src="https://i.imgur.com/WWAZImO.jpg" width="49%" /> 
-  <img src="https://i.imgur.com/RfOBkHt.jpg" width="49%" />
-</p>
+![](https://i.imgur.com/WWAZImO.jpg)
+
+![](https://i.imgur.com/RfOBkHt.jpg)
 
 ## 2020
 
