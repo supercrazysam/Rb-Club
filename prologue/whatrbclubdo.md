@@ -1,5 +1,28 @@
 # The history of PolyU FENG Robotics Club
 
+## 2006 
+
+ABU Robocon 2006 HK \(First Runner-up, Second Runner-up\)
+
+## 2007
+
+ABU Robocon 2007 HK \(Best Artistic Design Award)
+
+## 2008
+
+ABU Robocon 2008 HK \(First Runner-up, Best Artistic Design Award, Best Engineering Award)
+
+## 2009
+
+ABU Robocon 2009 HK \(Second Runner-up, Best Artistic Design Award)
+
+## 2010
+
+ABU Robocon 2010 HK \(Best Artistic Design Award, Best Engineering Award)
+
+## 2011
+
+ABU Robocon 2011 HK \(First Runner-up, Best Artistic Design Award, Best Engineering Award)
 
 ## 2015
 
