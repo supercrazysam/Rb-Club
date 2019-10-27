@@ -100,15 +100,15 @@ Robocon 2019 HK contest
 
 * Crimson 
 
+{embed YouTube video: 'https://youtu.be/NK8FHUy4pcw'}
 
 
-```text
+
+* Mysterious 
+  
+  
 {embed YouTube video: 'https://youtu.be/5mI_kRjqNiM'}
-```
 
-
-
-* Mysterious [https://youtu.be/5mI\_kRjqNiM](https://youtu.be/5mI_kRjqNiM)
 
 ### Diplomatic
 
