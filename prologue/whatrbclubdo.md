@@ -4,7 +4,7 @@
 ## ABU Robcon 2015 HK \(Best Artistic Design Award, Best Engineering Award\)
 
 <p align="middle">
-  <img src="https://i.imgur.com/OMxXIlh.jpg" width="90%" /> 
+  <img src="https://i.imgur.com/OMxXIlh.jpg" width="99%" /> 
 </p>
 <p align="middle">
   <img src="https://i.imgur.com/pNPGbsp.jpg" width="49%" /> 
