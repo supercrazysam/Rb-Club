@@ -3,8 +3,9 @@
 
 ## ABU Robcon 2015 HK \(Best Artistic Design Award, Best Engineering Award\)
 
-![](https://i.imgur.com/OMxXIlh.jpg)
-
+<p float="middle">
+  <img src="https://i.imgur.com/OMxXIlh.jpg" width="90%" /> 
+</p>
 <p float="middle">
   <img src="https://i.imgur.com/pNPGbsp.jpg" width="49%" /> 
   <img src="https://i.imgur.com/a5KUh5u.jpg" width="49%" />
