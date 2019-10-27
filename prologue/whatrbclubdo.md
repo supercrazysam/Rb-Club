@@ -14,7 +14,9 @@ Robocon 2017 HK contest \(1st Runner Up\)
 
 * Red Shadow
 
-  [https://youtu.be/vhDIzXrSyX4](https://youtu.be/vhDIzXrSyX4)
+{% embed url="https://youtu.be/vhDIzXrSyX4" %}
+
+
 
 ### Diplomatic
 
@@ -100,14 +102,14 @@ Robocon 2019 HK contest
 
 * Crimson 
 
-{embed YouTube video: 'https://youtu.be/NK8FHUy4pcw'}
+{% embed url="https://youtu.be/NK8FHUy4pcw" %}
 
 
 
 * Mysterious 
-  
-  
-{embed YouTube video: 'https://youtu.be/5mI_kRjqNiM'}
+
+{% embed url="https://youtu.be/5mI\_kRjqNiM\'" %}
+
 
 
 ### Diplomatic
