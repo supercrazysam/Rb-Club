@@ -1,14 +1,21 @@
-# What did Robotics Club do?
+# The history of PolyU FENG Robotics Club
+
+
+## 2015
+
+ABU Robocon 2015 HK \(Best Artistic Design Award, Best Engineering Award\)
+
+<p align="middle">
+  <img src="https://i.imgur.com/OMxXIlh.jpg" width="99%" /> 
+</p>
+<p align="middle">
+  <img src="https://i.imgur.com/pNPGbsp.jpg" width="49%" /> 
+  <img src="https://i.imgur.com/a5KUh5u.jpg" width="49%" />
+</p>
 
 ## 2016-17
 
-### Promotions
-
-PolyU Info Day Demo
-
-### Competition
-
-Robocon 2017 HK contest \(1st Runner Up\)
+ABU Robocon 2017 HK \(1st Runner Up\)
 
 ![](https://i.imgur.com/FFAOmsQ.jpg)
 
@@ -16,15 +23,18 @@ Robocon 2017 HK contest \(1st Runner Up\)
 
 {% embed url="https://youtu.be/vhDIzXrSyX4" %}
 
+### Promotions
 
+PolyU Info Day Demo
 
 ### Diplomatic
 
 HKU & CityU visit PolyU After Contest
 
-![](https://i.imgur.com/lLeX6cU.jpg)
-
-![](https://i.imgur.com/buhWulr.jpg)
+<p float="middle">
+  <img src="https://i.imgur.com/lLeX6cU.jpg" width="49%" />
+  <img src="https://i.imgur.com/buhWulr.jpg" width="49%" /> 
+</p>
 
 ### Workshops
 
@@ -33,6 +43,13 @@ Karrie International Holdings Ltd. \([http://www.karrie.com/](http://www.karrie.
 ![](https://i.imgur.com/2sJ08eB.jpg)
 
 ## 2017-18
+
+ABU Robocon 2018 HK \(Best Artistic Design Award, Best Engineering Award\)
+
+<p float="middle">
+  <img src="https://i.imgur.com/ahwI27a.jpg" width="49%" />
+  <img src="https://i.imgur.com/FKPXH7v.jpg" width="49%" /> 
+</p>
 
 ### Promotions
 
@@ -44,17 +61,11 @@ Junior Meetings
 
 ![](https://i.imgur.com/2liadtE.jpg)
 
-### Competition
+### Training
 
 Junior Training \(Tutored by Seniors\)
 
 ![](https://i.imgur.com/mu6LnZz.jpg)
-
-Robocon 2018 HK contest \(Best Artistic Design Award, Best Engineering Award\)
-
-![](https://i.imgur.com/ahwI27a.jpg)
-
-![](https://i.imgur.com/FKPXH7v.jpg)
 
 ### Diplomatic
 
@@ -70,31 +81,7 @@ NVidia - TX2 Training workshop in Hong Kong science park
 
 ## 2018-19
 
-### Promotions
-
-PolyU Info Day Demo
-
-Promotion to Secondary School Students
-
-![](https://i.imgur.com/UlARNCZ.jpg)
-
-![](https://i.imgur.com/eM0wqgS.jpg)
-
-Mass Mail + Google Form to recruit
-
-Junior Meetings
-
-### Competition
-
-Juniors Training \(Tutored by seniors\)
-
-![](https://i.imgur.com/QTYKEsM.jpg?1)
-
-![](https://i.imgur.com/HeqIjve.jpg)
-
-![](https://i.imgur.com/H7u3JZS.jpg)
-
-Robocon 2019 HK contest \(BEST ENGINEERING AWARD\)
+ABU Robocon 2019 HK \(BEST ENGINEERING AWARD\)
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
@@ -111,6 +98,27 @@ Robocon 2019 HK contest \(BEST ENGINEERING AWARD\)
 {% embed url="https://youtu.be/5mI\_kRjqNiM\'" %}
 
 
+### Promotions
+
+PolyU Info Day Demo
+
+Promotion to Secondary School Students
+
+![](https://i.imgur.com/eM0wqgS.jpg)
+
+Mass Mail + Google Form to recruit
+
+Junior Meetings
+
+### Training
+
+Juniors Training \(Tutored by seniors\)
+
+![](https://i.imgur.com/QTYKEsM.jpg?1)
+
+![](https://i.imgur.com/HeqIjve.jpg)
+
+![](https://i.imgur.com/H7u3JZS.jpg)
 
 ### Diplomatic
 
