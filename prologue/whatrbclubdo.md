@@ -1,7 +1,7 @@
 # The history of PolyU FENG Robotics Club
 
 ___
-#### **Over the course of 10 years of participation**
+### **Over the course of 10 years of participation**
 
 **4 First Runner-up**
 
