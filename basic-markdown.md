@@ -1,3 +1,5 @@
+For every task you submitted, please use markdown to write a instruction guide on it.
+
 Too Long, Don't read
 [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
