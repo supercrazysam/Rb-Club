@@ -1,7 +1,7 @@
 # The history of PolyU FENG Robotics Club
 
 
-## ABU Robcon 2015 HK \(Best Artistic Design Award, Best Engineering Award\)
+## ABU Robocon 2015 HK \(Best Artistic Design Award, Best Engineering Award\)
 
 <p align="middle">
   <img src="https://i.imgur.com/OMxXIlh.jpg" width="99%" /> 
@@ -19,7 +19,7 @@ PolyU Info Day Demo
 
 ### Competition
 
-Robocon 2017 HK contest \(1st Runner Up\)
+ABU Robocon 2017 HK \(1st Runner Up\)
 
 ![](https://i.imgur.com/FFAOmsQ.jpg)
 
@@ -62,7 +62,7 @@ Junior Training \(Tutored by Seniors\)
 
 ![](https://i.imgur.com/mu6LnZz.jpg)
 
-Robocon 2018 HK contest \(Best Artistic Design Award, Best Engineering Award\)
+ABU Robocon 2018 HK \(Best Artistic Design Award, Best Engineering Award\)
 
 <p float="middle">
   <img src="https://i.imgur.com/ahwI27a.jpg" width="49%" />
@@ -105,7 +105,7 @@ Juniors Training \(Tutored by seniors\)
 
 ![](https://i.imgur.com/H7u3JZS.jpg)
 
-Robocon 2019 HK contest \(BEST ENGINEERING AWARD\)
+ABU Robocon 2019 HK \(BEST ENGINEERING AWARD\)
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
