@@ -1,4 +1,6 @@
-# Who are we?
+# Introduction
+
+## Who are we?
 
 We are Polyu Robotics Club.
 
@@ -8,8 +10,7 @@ Our Main Focus is ABU Pacific Robocon, an Intra-university robot competition. Wi
 
 If you have any problem, please contact our instructor Sam.
 
-
-# Our Previous Awards
+## Our Previous Awards
 
 * 2006: 1ST RUNNER UP, 2ND RUNNER UP 
 * 2007: BEST ARTISTIC DESIGN AWARD 
@@ -22,43 +23,45 @@ If you have any problem, please contact our instructor Sam.
 * 2018: BEST ARTISTIC DESIGN AWARD, BEST ENGINEERING AWARD
 * 2019: BEST ENGINEERING AWARD
 
-
-
-# Club Structure (For Juniors) 
+## Club Structure \(For Juniors\)
 
 ![](https://i.imgur.com/rrdUsyj.png)
 
-
-# Requirements
+## Requirements
 
 * Strong commitment
-    * Shifts, work at nights, overnight…
-    * Show up regularly (at least twice a week)
+  * Shifts, work at nights, overnight…
+  * Show up regularly \(at least twice a week\)
 * Willing to learn
-    * Be proactive, sometimes we might teach you advanced stuff if you find us.
-    * Contribution is important
+  * Be proactive, sometimes we might teach you advanced stuff if you find us.
+  * Contribution is important
 
-# Challenges
+## Challenges
 
 Find your own task
+
 * Most of the time you might have little or no work assigned by us.
 
 Finding tools and materials
+
 * Our lab is messy, so it takes time to find tools. Ask someone if you’re not sure.
 
-# Rules
+## Rules
 
 Rules:
+
 > * Be Polite.
 > * Juniors are not allowed to enter CF505A since it is reserved for Core Members.
 > * CF505 is opened for Juniors in available timeslot:
-> * Juniors need to ask for tasks from the senior (please note the diagram)
+> * Juniors need to ask for tasks from the senior \(please note the diagram\)
 > * Please keep CF505 Tidy after use.
 
 Available Timeslot:
->       * Mon: ❌(reserved for Core Members)
->       * Tues: 4pm - 10pm 
->       * Wed: 1:30pm - 10pm
->       * Thurs: 1pm - 10pm
->       * Fri: 1pm-3pm, 7pm - 10pm
->       * Sat: 3pm - 10pm
+
+> * Mon: ❌\(reserved for Core Members\)
+>   * Tues: 4pm - 10pm 
+>   * Wed: 1:30pm - 10pm
+>   * Thurs: 1pm - 10pm
+>   * Fri: 1pm-3pm, 7pm - 10pm
+>   * Sat: 3pm - 10pm
+
