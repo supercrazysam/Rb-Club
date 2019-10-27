@@ -11,14 +11,14 @@ ___
 
 **6 Best Engineering Award**
 
-For the graduates from Robotics Team:\
+For the graduates from Robotics Team:
 
 Some of them are now pursuing a doctoral degree at Carnegie Mellon University\
 Some of them are developing surgical robots\
 Some of them are developing on solar cars and electric hydrofoil surfboards\
 Some of them are developing drones\
 Some of them are developing industrial AGVs\
-Some of them are tutors in universities\
+Some of them are tutors in universities
 
 Numerous amount of Inter-Universities activities were organized over the years
 to exchange knowledge and experience.
