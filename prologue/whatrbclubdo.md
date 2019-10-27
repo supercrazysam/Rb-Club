@@ -2,6 +2,7 @@
 
 
 ## 2015
+
 ABU Robocon 2015 HK \(Best Artistic Design Award, Best Engineering Award\)
 
 <p align="middle">
@@ -14,12 +15,6 @@ ABU Robocon 2015 HK \(Best Artistic Design Award, Best Engineering Award\)
 
 ## 2016-17
 
-### Promotions
-
-PolyU Info Day Demo
-
-### Competition
-
 ABU Robocon 2017 HK \(1st Runner Up\)
 
 ![](https://i.imgur.com/FFAOmsQ.jpg)
@@ -28,7 +23,9 @@ ABU Robocon 2017 HK \(1st Runner Up\)
 
 {% embed url="https://youtu.be/vhDIzXrSyX4" %}
 
+### Promotions
 
+PolyU Info Day Demo
 
 ### Diplomatic
 
@@ -47,6 +44,13 @@ Karrie International Holdings Ltd. \([http://www.karrie.com/](http://www.karrie.
 
 ## 2017-18
 
+ABU Robocon 2018 HK \(Best Artistic Design Award, Best Engineering Award\)
+
+<p float="middle">
+  <img src="https://i.imgur.com/ahwI27a.jpg" width="49%" />
+  <img src="https://i.imgur.com/FKPXH7v.jpg" width="49%" /> 
+</p>
+
 ### Promotions
 
 PolyU Info Day Demo
@@ -57,18 +61,11 @@ Junior Meetings
 
 ![](https://i.imgur.com/2liadtE.jpg)
 
-### Competition
+### Training
 
 Junior Training \(Tutored by Seniors\)
 
 ![](https://i.imgur.com/mu6LnZz.jpg)
-
-ABU Robocon 2018 HK \(Best Artistic Design Award, Best Engineering Award\)
-
-<p float="middle">
-  <img src="https://i.imgur.com/ahwI27a.jpg" width="49%" />
-  <img src="https://i.imgur.com/FKPXH7v.jpg" width="49%" /> 
-</p>
 
 ### Diplomatic
 
@@ -83,28 +80,6 @@ NVidia - TX2 Training workshop in Hong Kong science park
 ![](https://i.imgur.com/MUR906S.jpg)
 
 ## 2018-19
-
-### Promotions
-
-PolyU Info Day Demo
-
-Promotion to Secondary School Students
-
-![](https://i.imgur.com/eM0wqgS.jpg)
-
-Mass Mail + Google Form to recruit
-
-Junior Meetings
-
-### Competition
-
-Juniors Training \(Tutored by seniors\)
-
-![](https://i.imgur.com/QTYKEsM.jpg?1)
-
-![](https://i.imgur.com/HeqIjve.jpg)
-
-![](https://i.imgur.com/H7u3JZS.jpg)
 
 ABU Robocon 2019 HK \(BEST ENGINEERING AWARD\)
 
@@ -123,6 +98,27 @@ ABU Robocon 2019 HK \(BEST ENGINEERING AWARD\)
 {% embed url="https://youtu.be/5mI\_kRjqNiM\'" %}
 
 
+### Promotions
+
+PolyU Info Day Demo
+
+Promotion to Secondary School Students
+
+![](https://i.imgur.com/eM0wqgS.jpg)
+
+Mass Mail + Google Form to recruit
+
+Junior Meetings
+
+### Training
+
+Juniors Training \(Tutored by seniors\)
+
+![](https://i.imgur.com/QTYKEsM.jpg?1)
+
+![](https://i.imgur.com/HeqIjve.jpg)
+
+![](https://i.imgur.com/H7u3JZS.jpg)
 
 ### Diplomatic
 
