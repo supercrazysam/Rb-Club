@@ -181,15 +181,17 @@ Added Final Year Project students from Mechanical Engineering
 
 HKU visit PolyU After Contest
 
-![](https://i.imgur.com/9MtoNc5.jpg)
-
-![](https://i.imgur.com/LLYKpJM.jpg)
+<p align="middle">
+  <img src="https://i.imgur.com/9MtoNc5.jpg" width="49%" /> 
+  <img src="https://i.imgur.com/LLYKpJM.jpg" width="49%" />
+</p>
 
 PolyU visit HKU After Contest
 
-![](https://i.imgur.com/WWAZImO.jpg)
-
-![](https://i.imgur.com/RfOBkHt.jpg)
+<p align="middle">
+  <img src="https://i.imgur.com/WWAZImO.jpg" width="49%" /> 
+  <img src="https://i.imgur.com/RfOBkHt.jpg" width="49%" />
+</p>
 
 ## 2020
 
