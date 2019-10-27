@@ -58,7 +58,7 @@ ABU Robocon 2011 HK \( **First Runner-up, Best Artistic Design Award, Best Engin
 
 ## 2015
 
-ABU Robocon 2015 HK \( **Best Artistic Design Award, Best Engineering Award**\ )
+ABU Robocon 2015 HK \( **Best Artistic Design Award, Best Engineering Award** )
 
 <p align="middle">
   <img src="https://i.imgur.com/OMxXIlh.jpg" width="99%" /> 
@@ -70,7 +70,7 @@ ABU Robocon 2015 HK \( **Best Artistic Design Award, Best Engineering Award**\ )
 
 ## 2017
 
-ABU Robocon 2017 HK \( **First Runner-up**\ )
+ABU Robocon 2017 HK \( **First Runner-up** )
 
 ![](https://i.imgur.com/FFAOmsQ.jpg)
 
@@ -99,7 +99,7 @@ Karrie International Holdings Ltd. \([http://www.karrie.com/](http://www.karrie.
 
 ## 2018
 
-ABU Robocon 2018 HK \( **Best Artistic Design Award, Best Engineering Award**\ )
+ABU Robocon 2018 HK \( **Best Artistic Design Award, Best Engineering Award** )
 
 <p float="middle">
   <img src="https://i.imgur.com/ahwI27a.jpg" width="49%" />
@@ -136,7 +136,7 @@ NVidia - TX2 Training workshop in Hong Kong science park
 
 ## 2019
 
-ABU Robocon 2019 HK \( **Best Engineering Award**\ )
+ABU Robocon 2019 HK \( **Best Engineering Award** )
 
 <p align="middle">
   <img src="../.gitbook/assets/image%20%282%29.png" width="49%" /> 
