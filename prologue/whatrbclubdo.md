@@ -1,4 +1,4 @@
-# The history of PolyU FENG Robotics Club
+# The History of PolyU FENG Robotics Club
 
 ___
 ### **Over the course of 10 years in ABU Robocon HK**
