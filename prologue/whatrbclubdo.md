@@ -3,9 +3,11 @@
 
 ## ABU Robcon 2015 HK \(Best Artistic Design Award, Best Engineering Award\)
 
-Solarized dark              |Solarized dark             |  Solarized Ocean
-|:-------------------------:|:-------------------------:
-![](https://i.imgur.com/OMxXIlh.jpg)  |![](https://i.imgur.com/pNPGbsp.jpg)  |  ![](https://i.imgur.com/a5KUh5u.jpg)
+<p float="left">
+  <img src="https://i.imgur.com/OMxXIlh.jpg" width="100" />
+  <img src="https://i.imgur.com/pNPGbsp.jpg" width="100" /> 
+  <img src="https://i.imgur.com/a5KUh5u.jpg" width="100" />
+</p>
 
 ## 2016-17
 
